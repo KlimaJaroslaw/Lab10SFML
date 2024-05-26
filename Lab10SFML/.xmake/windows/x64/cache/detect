@@ -1,0 +1,13 @@
+{
+    find_program = {
+        ping = "ping",
+        git = "git",
+        ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe"] = [[C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\cl.exe]]
+    },
+    find_programver = {
+        ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe"] = "19.37.32824"
+    },
+    ["lib.detect.has_flags"] = {
+        ["windows_x64_C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe_19.37.32824_cxx_cxflags_-nologo_cl_sourceDependencies"] = true
+    }
+}

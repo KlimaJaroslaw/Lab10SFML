@@ -1,0 +1,19 @@
+﻿  ComplexShape.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\numbers(12): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+C:\Users\jaros\source\repos\Lab10SFML\Lab10SFML\ComplexShape.cpp(10,46): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\jaros\source\repos\Lab10SFML\Lab10SFML\ComplexShape.cpp(11,52): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  functions.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\numbers(12): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+C:\Users\jaros\source\repos\Lab10SFML\Lab10SFML\circle.h(11,86): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jaros\source\repos\Lab10SFML\Lab10SFML\functions.cpp(24,32): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jaros\source\repos\Lab10SFML\Lab10SFML\functions.cpp(24,28): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Lab10SFML.vcxproj -> C:\Users\jaros\source\repos\Lab10SFML\x64\Debug\Lab10SFML.exe
